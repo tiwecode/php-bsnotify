@@ -1,2 +1,2 @@
 # php-bsnotify
-# LETS START
+A PHP application to implement Bootstrap Notify 
